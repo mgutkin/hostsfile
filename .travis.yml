@@ -1,6 +1,9 @@
 language: go
 sudo: false
 
+os:
+  - linux
+
 go:
   - 1.8
   - 1.9
